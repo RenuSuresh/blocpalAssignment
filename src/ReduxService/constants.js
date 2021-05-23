@@ -1,0 +1,4 @@
+export const SET_USER = "SET_USER";
+export const SET_TOKEN = "SET_TOKEN";
+export const SET_PLAYLIST = "SET_PLAYLIST";
+export const SET_LOCAL_PLAYLIST = "SET_LOCAL_PLAYLIST";
